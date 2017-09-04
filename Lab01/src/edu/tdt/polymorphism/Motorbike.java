@@ -32,6 +32,11 @@ public class Motorbike implements Vehicle {
     {
         this.wheel = wheel;
     }
+    
+    public Motorbike(Motorbike m)
+    {
+        this.wheel = m.wheel;
+    }
 
     @Override
     public void run()
