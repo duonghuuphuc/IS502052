@@ -18,8 +18,8 @@ This repository contains all source code presented in lab tutorials. Visit [SAKA
 Resources
 ---------
 
- 1. Course homepage: [http://it.tdt.edu.vn/~dhphuc/teaching/is502052/](http://it.tdt.edu.vn/~dhphuc/teaching/is502052/)
- 2. Software: [Server-1](http://it.tdt.edu.vn/~dhphuc/teaching/is502052/software.php) | [Mirror-1](https://www.mediafire.com/folder/52wk3gfdlr9pz/IS502052) | [Mirror-2](https://goo.gl/AKMZF3)
+ 1. Course homepage: [http://cntt.tdtu.edu.vn/~dhphuc/teaching/is502052/](http://cntt.tdtu.edu.vn/~dhphuc/teaching/is502052/)
+ 2. Software: [Server-1](http://cntt.tdtu.edu.vn/~dhphuc/teaching/is502052/software.php) | [Mirror-1](https://www.mediafire.com/folder/52wk3gfdlr9pz/IS502052) | [Mirror-2](https://goo.gl/AKMZF3)
 
 Contributors
 ------------
