@@ -13,7 +13,7 @@ After completing this course, you can understand how-to deploy an enterprise sof
 GitHub Repository
 -----------------
 
-This repository contains all source code presented in lab tutorials. Visit [SAKAI](http://sakai.it.tdt.edu.vn/portal) portal to download resources.
+This repository contains all source code presented in lab tutorials. Visit [Course's Homepage](https://www.duonghuuphuc.com/teaching/cs502052/) portal to download resources.
 
 Resources
 ---------
